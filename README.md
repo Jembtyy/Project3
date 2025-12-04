@@ -2,7 +2,7 @@ Projektin nimi ja tekijät
 jQuery TODO-lista app
 
 Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [netlify.app](https://jerenprojekti3.netlify.app/) Linkki projektin videoesittelyyn [youtube.com] (youtube.com/watch?v=w3vjUP7YYwI&feature=youtu.be)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [netlify.app](https://jerenprojekti3.netlify.app/) Linkki projektin videoesittelyyn [youtube.com](youtube.com/watch?v=w3vjUP7YYwI&feature=youtu.be)
 
 Työn jakautuminen
 Tein yksin.
