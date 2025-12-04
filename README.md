@@ -14,15 +14,15 @@ Mielestäni onnistuin rakentamaan toimivan ja visuaalisesti siistin TODO-sovellu
 
 
 ## Sisällysluettelo:
-Tietoja sovelluksesta
-[Tunnetut virheet/bugit](#Tunnetut virheet/bugit)
-Kuvakaappaukset
-Teknologiat
-Asennus
-Lähestymistapa
-Kiitokset
-Lisenssi
-Tietoja sovelluksesta
+- [Tietoja sovelluksesta](#tietoja-sovelluksesta)
+- [Tunnetut virheet/bugit](#Tunnetut virheet/bugit)
+- [Kuvakaappaukset](#kuvakaappaukset)
+- [Teknologiat](#teknologiat)
+- [Asennus](#asennus)
+- [Lähestymistapa](#lähestymistapa)
+- [Kiitokset](#kiitokset)
+- [Lisenssi](#lisenssi)
+## Tietoja sovelluksesta
 jQuery TODO App on yksinkertainen tehtävienhallintasovellus, jonka avulla käyttäjä voi:
 lisätä tehtäviä
 merkitä tehtäviä tehdyksi
